@@ -2,7 +2,7 @@
 
 # You Found the phar and start.sh on <https://github.com/E-DevPM/Stable-Phar-Hydracon>
 
-# /!\ Please don't use the phar [OUTDADED] /!\
+# /!\  You can now use the phar version (1.0.7) /!\
 
 - Hydracon and based on the software PocketMine-MP
 
